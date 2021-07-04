@@ -45,6 +45,19 @@ body{
     background-repeat: no-repeat;
     background-position: right;
 }
+#web-ex{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#web{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, tomato);
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
+}
 
 .half-width{
     width: 50%;
@@ -60,6 +73,9 @@ body{
     border-radius: 10px;
     color: white;
     font-weight: 400;
+    
+
+    
 
     
  
