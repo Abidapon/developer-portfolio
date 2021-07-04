@@ -11,8 +11,11 @@ body{
 .red{
     color: rgb(255, 217, 0);
 }
+.lal{
+    color: red;
+}
 
-section{
+.flexibale-container{
     display: flex;
     
 }
@@ -20,6 +23,21 @@ section{
 .width{
     width: 50%;
     padding: 2%;
+}
+.ex-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px;
+}
+.ex-area{
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 0%;
+    position: ;
 }
     
 .dream-big{
